@@ -7,9 +7,9 @@ class App extends React.Component {
     return (
       <div className="container">
         <hr />
-        <h1>Voting App ( thinking in react.js )</h1>
+        <h1>Voting App </h1>
         <hr />
-        <VotingBox title="VEG_ITEMS" />
+        <VotingBox title="VOTING_ITEMS" />
         <hr />
         {/* <VotingBox title="NON_VEG_ITEMS" /> */}
       </div>
